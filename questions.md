@@ -4,7 +4,7 @@
 DevOps est un ensemble de pratiques qui met l'accent sur la collaboration et la communication entre les développeurs de logiciels et les professionnels des opérations informatiques, en automatisant le processus de livraison de logiciels et les changements d'infrastructure.
 
 ## Question 2: Qu'est-ce que le continuous delivery ?
-La livraison continue (CD, Continuous Delivery) est une approche de la publication de logiciels dans laquelle les équipes de développement produisent et testent le code dans des cycles courts, en s'appuyant généralement sur une plus grande automatisation.
+La livraison continue ou continous delivery est une approche de la publication de logiciels dans laquelle les équipes de développement produisent et testent le code dans des cycles courts, en s'appuyant généralement sur une plus grande automatisation.
 
 ## Question 3: Donnez le nom d'un serveur d'intégration continue (nom de la solution) ?
 Jenkins
