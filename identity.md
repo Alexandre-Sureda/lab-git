@@ -1,5 +1,5 @@
 Entrez vos informations ci-dessous:
 
-* first_name: Sureda
-* last_name: Alexandre
+* first_name: Alexandre
+* last_name: Sureda
 * student_id: 17
